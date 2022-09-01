@@ -1037,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-08-29 00:41:27 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-06-28 00:32:20 +0500"
@@ -1370,6 +1376,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2022-06-26 15:52:57 +0500",
+      "minecraft:taiga": "2022-08-28 01:13:31 +0500",
       "minecraft:eroded_badlands": "2022-07-08 03:18:29 +0500",
       "minecraft:birch_forest": "2022-06-23 03:19:37 +0500",
       "minecraft:wooded_badlands": "2022-07-08 03:19:52 +0500",
@@ -2164,6 +2171,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2022-06-23 02:15:27 +0500",
+      "minecraft:turtle": "2022-08-28 01:30:32 +0500",
       "minecraft:sheep": "2022-06-23 02:56:23 +0500",
       "minecraft:cow": "2022-06-26 14:57:09 +0500"
     },

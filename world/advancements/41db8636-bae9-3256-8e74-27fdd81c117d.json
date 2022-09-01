@@ -701,6 +701,7 @@
       "minecraft:zombified_piglin": "2022-07-12 00:05:32 +0500",
       "minecraft:piglin": "2022-07-08 23:04:11 +0500",
       "minecraft:zombie": "2022-06-25 20:49:04 +0500",
+      "minecraft:drowned": "2022-08-28 01:23:27 +0500",
       "minecraft:zombie_villager": "2022-07-09 23:51:42 +0500"
     },
     "done": false
@@ -954,6 +955,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2022-06-26 21:03:11 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2022-08-28 01:07:49 +0500"
     },
     "done": true
   },
@@ -1995,6 +2002,7 @@
       "cooked_mutton": "2022-06-26 20:50:41 +0500",
       "cooked_beef": "2022-07-06 01:04:48 +0500",
       "beef": "2022-06-28 18:17:19 +0500",
+      "baked_potato": "2022-08-28 00:22:51 +0500",
       "porkchop": "2022-06-28 17:54:48 +0500",
       "apple": "2022-06-28 00:44:28 +0500",
       "potato": "2022-06-27 21:34:43 +0500",
@@ -2564,6 +2572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-08-28 23:55:14 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-06-25 22:44:27 +0500"
@@ -2999,6 +3013,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2022-07-11 20:35:47 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-08-28 23:55:14 +0500"
     },
     "done": true
   },
