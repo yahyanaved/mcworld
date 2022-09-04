@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2022-09-04 14:09:06 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-06-23 00:35:20 +0500"
@@ -515,6 +521,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2022-06-28 21:39:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-04 14:39:32 +0500"
     },
     "done": true
   },
@@ -986,6 +998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-04 14:39:32 +0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-06-23 00:35:18 +0500"
@@ -996,9 +1014,11 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-06-26 15:42:32 +0500",
       "minecraft:taiga": "2022-06-25 21:29:18 +0500",
+      "minecraft:deep_ocean": "2022-09-04 16:32:30 +0500",
       "minecraft:birch_forest": "2022-06-25 21:16:55 +0500",
       "minecraft:beach": "2022-06-26 15:23:55 +0500",
       "minecraft:dark_forest": "2022-06-23 00:24:28 +0500",
+      "minecraft:sparse_jungle": "2022-09-04 16:35:13 +0500",
       "minecraft:lukewarm_ocean": "2022-06-23 19:41:52 +0500",
       "minecraft:river": "2022-06-23 19:33:14 +0500",
       "minecraft:stony_shore": "2022-06-23 00:21:07 +0500",
@@ -1213,6 +1233,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2022-06-23 00:41:57 +0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-09-04 14:39:32 +0500"
     },
     "done": true
   },
@@ -2353,5 +2379,5 @@
     },
     "done": true
   },
-  "DataVersion": 3105
+  "DataVersion": 3120
 }
